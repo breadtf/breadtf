@@ -2,7 +2,7 @@
 i do code and stuff sometimes
 
 i also do other funny things like [youtube](https://youtube.com/@breadtf) and [mastodon](https://mastodon.social/@breadteleporter).
-i also have a [website](https://breadteleporter.duckdns.org) too.
+i also have a [website](https://breadtf.com) too.
 
 ### languages
 hi yeah i can code in these languages sometimes
